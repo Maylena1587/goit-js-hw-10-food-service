@@ -1,1 +1,1 @@
-# tasks-7.5-homework
+goit-js-hw-10-food-service
