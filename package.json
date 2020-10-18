@@ -1,0 +1,24 @@
+{
+  "name": "goit-js-hw-10-food-service-new",
+  "version": "1.0.0",
+  "description": "goit-js-hw-10-food-service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build src/index.html",
+    "dev": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maylena1587/goit-js-hw-10-food-service-new.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maylena1587/goit-js-hw-10-food-service-new/issues"
+  },
+  "homepage": "https://github.com/Maylena1587/goit-js-hw-10-food-service-new#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
